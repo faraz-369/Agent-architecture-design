@@ -92,7 +92,8 @@ Unleash Your Creative Ideas on an Infinite Canvas & Collaborate in Real-Time.
 Udemy, Inc.
 Agentic AI Mastery: Multi-Agent Systems in Practice
 Learn Data Science online at your own pace. Start today and improve your skills.
-
+_________________________________________________________________________________
+<img width="858" height="635" alt="image" src="https://github.com/user-attachments/assets/ba254a12-4512-4f61-badf-6f8ec93502c7" />
 
 
 
